@@ -10,3 +10,9 @@
   </figure>
 <section id="tribute-info">
     <p> Here’s a link to more information about <a id="tribute-link" target="_blank" href="https://www.cbsnews.com/news/beached-sperm-whale-found-with-220-pounds-of-trash-in-his-stomach/#:~:text=Rescuers%20rush%20to%20save%20beached,the%20carcass%20several%20days%20later.">  whales</a> for you to follow.</p>
+  img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    }
