@@ -1,0 +1,12 @@
+<main id="main">
+  <h1 id="title"> Sperm Whale</h1>
+  <p> This is an example of one of the most beautiful mammals on earth. </p>
+  <figure id="img-div">
+      <img
+        id="image"
+ src= "https://c402277.ssl.cf1.rackcdn.com/photos/18325/images/hero_full/Humpback_Whale_and_Calf_WW2131047.jpg?1576596196"
+  alt= "Whale swimming in ocean with calf." />
+  <figcaption id= "img-caption"> This whale shown is a sperm whale and it is an endangered whale that lives in the Atlantic Ocean </figcaption>
+  </figure>
+<section id="tribute-info">
+    <p> Here’s a link to more information about <a id="tribute-link" target="_blank" href="https://www.cbsnews.com/news/beached-sperm-whale-found-with-220-pounds-of-trash-in-his-stomach/#:~:text=Rescuers%20rush%20to%20save%20beached,the%20carcass%20several%20days%20later.">  whales</a> for you to follow.</p>
